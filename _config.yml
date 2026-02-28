@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "QunKai Peng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "AI Algorithm Engineer"
+  location         : "TaiWan"
+  employer         : "Peking University & DJI"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "15916825528@163.com" 
 
   # Academic websites
   academia         : # URL
