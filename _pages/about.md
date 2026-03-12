@@ -29,9 +29,8 @@ My name is **Qunkai Peng**. I am currently pursuing research in multimodal large
 ---
 
 ## Work Experience
-
-2024 XVerse Graphics and Image Algorithm Intern, Image Algorithm Department
-2025 ～ now DJI Algorithm Engineer, Large Model Team
+- **2024 XVerse Graphics and Image Algorithm Intern, Image Algorithm Department
+- **2025 ～ now DJI Algorithm Engineer, Large Model Team
 
 ---
 
