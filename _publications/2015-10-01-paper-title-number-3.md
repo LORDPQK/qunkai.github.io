@@ -6,7 +6,6 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-10-19
 venue: '10th International Conference on Integrated Circuits and Microsystems (ICICM)'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf](https://ieeexplore.ieee.org/document/11316051'
 citation: 'Peng, Qun Kai , et al. "FMSRdiff: Efficient latent diffusion framework combining consistency model and flow matching for super-resolution." #i{2025 10th International Conference on Integrated Circuits and Microsystems (ICICM)} 0.'
 ---
