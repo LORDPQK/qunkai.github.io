@@ -1,7 +1,7 @@
 ---
 title: "FMSRdiff : Efficient latent diffusion framework combining consistency model"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'We propose FMSRdiff, an efficient latent diffusion framework that integrates consistency models with flow matching.(ICICM 2025 Oral & Best Paper)'
 date: 2025-10-19
